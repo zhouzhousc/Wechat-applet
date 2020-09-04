@@ -1,0 +1,11 @@
+/* pages/detail-target/detail-target.wxss */
+.detail-target-wrapper {
+  background-color: white
+}
+
+.detail-target-button {
+  /* position: absolute;
+  bottom: 20%;
+  width: 100%;
+  left: 25%; */
+}

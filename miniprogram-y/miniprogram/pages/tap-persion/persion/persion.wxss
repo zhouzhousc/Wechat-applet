@@ -1,0 +1,51 @@
+.unlogimg {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  left: 34%;
+  top: 5%;
+}
+
+.container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.container image {
+  width: 100%;
+  height: 100%;
+}
+.loginbutton {
+  position: absolute;
+  left: 38%;
+  top: 35%;
+}
+
+.container0 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.bkimg {
+  width: 100%;
+  height: 100%;
+}
+.loginbutton {
+  position: absolute;
+  left: 38%;
+  top: 55%;
+}
+
+.content {
+  position: absolute;
+  left: 10%;
+  top: 35%;
+  /* margin-left: 50rpx;
+  margin-bottom: 90rpx; */
+}
+
+.content text {
+  display: block;
+  color: #9d9d9d;
+  margin-top: 40rpx;
+}

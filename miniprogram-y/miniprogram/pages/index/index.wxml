@@ -1,0 +1,35 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="uploader">
+    <button type="primary" bindtap="handleTapLogin">进入某岛</button>
+  </view>
+</view>
+
+<!-- <view class="container0" wx:else> -->
+<!-- <navigator url="/pages/login0/login0" hover-class="navigator-hover">还未登录或登录以过期，请重新授权登录</navigator> -->
+
+<!-- <image class="bkimg" src="../index/login_bg.jpg"></image>
+
+<image class="unlogimg" src="../index/user-unlogin.png" mode="center"></image>
+
+<button class="loginbutton" wx:if="{{canIUse}}" size='mini'
+open-type="getUserInfo" 
+bindgetuserinfo="bindGetUserInfo" type='primary'>授权登录</button>
+</view> -->
+
+<!-- <view wx:if="{{canIUse}}">
+    <view class='header'>
+        <image src='/images/wx.png'></image>
+    </view>
+
+    <view class='content'>
+        <view>申请获取以下权限</view>
+        <text>获得你的公开信息(昵称，头像等)</text>
+    </view>
+
+    <button class='bottom' type='primary' open-type="getUserInfo" lang="zh_CN" bindgetuserinfo="bindGetUserInfo">
+        授权登录
+    </button>
+</view>
+
+<view wx:else>请升级微信版本</view> -->
